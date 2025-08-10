@@ -1,4 +1,4 @@
-# TechCraft Genius AI
+# TechCraft Genius AI 
 
 This project aims to create a world-class, comprehensive, and continuously evolving AI-powered platform for DIY tech projects, as detailed in the provided project description. The platform will include:
 
