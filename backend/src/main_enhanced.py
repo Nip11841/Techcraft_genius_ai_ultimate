@@ -4,7 +4,7 @@ import sys
 sys.path.insert(0, os.path.dirname(os.path.dirname(__file__)))
 
 from flask import Flask, send_from_directory, jsonify, request
-from flask_cors import CORS
+from flask_cors import CORS 
 from datetime import datetime
 from src.models.project import db
 from src.routes.projects import projects_bp
